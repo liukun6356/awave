@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140.32 143.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231815;
+        font-family: ArialRoundedMTBold, ArialRoundedMTBold;
+        font-size: 40px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #231815;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 27.62 27.62;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="m70.31,136.62c-5.11,0-10.09-.58-14.88-1.68"/>
+    <path class="cls-3" d="m30.57,123.4c-16.13-12.1-26.57-31.37-26.57-53.08C4,33.69,33.69,4,70.31,4c34.11,0,62.2,25.75,65.9,58.87"/>
+    <path class="cls-2" d="m136.32,76.67c-.48,5.07-1.54,9.98-3.1,14.65"/>
+  </g>
+  <path class="cls-2" d="m70.31,71.41c-11,0-19.91-8.91-19.91-19.91s8.91-19.91,19.91-19.91,19.91,8.91,19.91,19.91"/>
+  <path class="cls-2" d="m70.31,71.41c11,0,19.91,8.91,19.91,19.91s-8.91,19.91-19.91,19.91-19.91-8.91-19.91-19.91"/>
+  <text class="cls-1" transform="translate(92.74 133.79) scale(.84 1)"><tspan class="cls-4" x="0" y="0">P</tspan><tspan class="cls-5" x="20.64" y="0">r</tspan><tspan x="33.32" y="0">e</tspan></text>
+</svg>

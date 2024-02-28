@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Avenir Next";
+    src:url("Avenir Next M.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Avenir Next B";
+    src:url("Avenir Next B.ttf");
+    /* font-weight: bold; */
+    font-style: normal;
+}

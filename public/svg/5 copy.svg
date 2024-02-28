@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140.62 140.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffffff;
+        font-family: ArialRoundedMTBold, ArialRoundedMTBold;
+        font-size: 40px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ffffff;
+        stroke-dasharray: 0 0 29.76 29.76;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="70.31" cy="70.31" r="66.31" transform="translate(-29.12 70.31) rotate(-45)"/>
+  <text class="cls-1" transform="translate(41.78 85.71) scale(.84 1)"><tspan x="0" y="0">040</tspan></text>
+</svg>
